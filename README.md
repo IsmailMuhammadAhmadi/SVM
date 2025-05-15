@@ -57,8 +57,6 @@ Lemmatization membantu mengurangi variasi kata sehingga model lebih mudah mengen
 ## Cara Menjalankan Kode
 
 1. Pastikan Python 3 dan paket-paket berikut sudah terpasang :
-
-```bash
 pip install pandas numpy scikit-learn nltk matplotlib seaborn
 
 2. Unduh data wordnet NLTK dengan menjalankan Python dan memasukkan:
